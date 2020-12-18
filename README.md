@@ -8,7 +8,7 @@
 <a href="https://github.com/roshankshaw">
   <img align="left" alt="Roshan's Github" width="22px" src="https://github.com/fluidicon.png" />
 </a>
-<a href="https://instagram.com/roshankshaw/">
+<a href="https://instagram.com/roshan.k.shaw/">
   <img align="left" alt="Roshan's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
 </a>
 
