@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Roshan 👋
 <a href="https://twitter.com/roshankshaw">
   <img align="left" alt="Roshan's Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" />
 </a>
@@ -14,8 +14,6 @@
 
 <br/>
 <br/>
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on scalable backend projects and fun projects at Hackathons
 - 🌱 I’m currently learning React.js
