@@ -16,7 +16,7 @@
 <br/>
 
 - 🔭 I’m currently working on scalable backend projects and fun projects at Hackathons <!-- - 🌱 I’m currently learning React.js-->
-- 👯 I’m looking to collaborate on Open Source Projects
+- 👯 I’m looking to collaborate on new ideas and new open source projects
 - 💬 Ask me about Technology, Politics, Finance, Sports and Space-tech
 - 📫 How to reach me: <a style="color:#02ccff" href="mailto:roshankshaw@gmail.com">roshankshaw@gmail.com</a>
 - 😄 Pronouns: He/Him
